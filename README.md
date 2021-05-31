@@ -4,7 +4,7 @@ MIT LICENSE follow http://spdx.org/ids/
 
 ## License
 
-This work is licensed under [MIT](https://spdx.org/licenses/MIT.html).
+This work is licensed under [MIT](https://opensource.org/licenses/MIT).
 
 `SPDX-License-Identifier: MIT`
 
